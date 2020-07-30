@@ -12,7 +12,8 @@ to ensure that I can repeat these steps in the future without too many issues.
    :maxdepth: 2
    :caption: Contents:
 
-
+   Chapter1
+   Chapter2
 
 Indices and tables
 ==================

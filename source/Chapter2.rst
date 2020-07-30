@@ -15,4 +15,8 @@ Here is a picture I am adding to the document.
 
 .. image:: stars.jpg
 
-*Paran Deset*
+*Paran Desert*
+
+.. note:: This is a Foocking note!!
+
+This is a speling mistakle
